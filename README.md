@@ -1,2 +1,3 @@
-# deck-y-theme
+# decky-theme
+
 EmuDeck Theme for CSS Loader

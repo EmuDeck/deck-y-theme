@@ -1,0 +1,11 @@
+{
+  "name": "EmuDeck Theme",
+  "version": "v1.0",
+  "author": "dragoonDorise",
+  "manifest_version": 1,
+  "inject": {
+    "shared.css": ["SP"],
+    "QuickAccess.css": ["QuickAccess.*"],
+    "MainMenu.css": ["MainMenu.*"]
+  }
+}
